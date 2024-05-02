@@ -48,6 +48,3 @@
     "typescript": "^5"
   }
 }
-"scripts": {
-  "deploy": "next build && next export && npx gh-pages -d out"
-},
